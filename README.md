@@ -7,7 +7,7 @@
 
 Để có thể sử dụng RC Voice một cách tốt nhất, chúng tôi khuyên bạn cài đặt phiên bản [phát hành](https://github.com/aujiz11/RC-Voice/releases) mới nhất của chúng tôi.
 
-Sau khi tải phiên bạn mới nhất, hãy mở tệp ***RC Voice.exe*** và cài đặt nó vào thư mục trò chơi của bạn, những tiện ích cần thiết cũng sẽ được cài đặt theo đó.
+Sau khi tải phiên bản mới nhất, hãy mở tệp ***RC Voice.exe*** và cài đặt nó vào thư mục trò chơi của bạn, những tiện ích cần thiết cũng sẽ được cài đặt theo đó.
 
 ## Những điều bạn cần biết
 
@@ -16,6 +16,6 @@ Sau khi tải phiên bạn mới nhất, hãy mở tệp ***RC Voice.exe*** và 
 Nếu sau khi cài đặt **RC Voice** nhưng bạn vẫn không thể vào trò chơi, chúng tôi khuyên bạn nên xóa các tệp mod để kiểm tra xem đã xung đột với tệp nào (ví dụ: .asi file, modloader, ...).
 
 ## Thông tin sản phẩm
-Được tạo bởi: [CyberMor](https://github.com/CyberMor)
-Phát triển bởi: [Ausil (#aujiz)](https://github.com/aujiz11)
-Phiên bản: 1.0
+- Được tạo bởi: [CyberMor](https://github.com/CyberMor)
+- Phát triển bởi: [Ausil (#aujiz)](https://github.com/aujiz11)
+- Phiên bản: 1.0
