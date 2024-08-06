@@ -18,4 +18,4 @@ Nếu sau khi cài đặt **RC Voice** nhưng bạn vẫn không thể vào trò
 ## Thông tin sản phẩm
 - Được tạo bởi: [CyberMor](https://github.com/CyberMor)
 - Phát triển bởi: [Ausil (#aujiz)](https://github.com/aujiz11)
-- Phiên bản: 1.0
+- Phiên bản mới nhất: 1.1
